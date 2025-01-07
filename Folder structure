@@ -1,0 +1,10 @@
+Hakim21-cloud.github.io/
+│
+├── index.html            # Main HTML file for dashboard
+├── script.js             # JavaScript to fetch and display live data
+├── style.css             # CSS file for styling
+├── data.json             # Placeholder for live ESP32 data (optional)
+├── README.md             # Documentation
+├── api/
+│   ├── app.py            # Python script for dynamic backend API (optional)
+└── assets/               # Assets like images or other resources
